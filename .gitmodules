@@ -1,0 +1,4 @@
+[submodule "SubF"]
+	path = SubF
+	url = https://github.com/amazelucc/testsub.git
+	branch = Sub
